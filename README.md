@@ -1,1 +1,2 @@
-# jhotyvideoprojects.github.io# Jhoty Video Projects
+Jhoty Video Projects
+@jhotyvideoprojects.github.io
